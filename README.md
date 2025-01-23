@@ -7,7 +7,7 @@
 </p>
 
 ## Descrição do Projeto
-> Interface básica para usuário.
+> site e design feito para o site da ewcruel.
 
 > Status do Projeto: Finalizado :warning:
 - [x]  Interface recriada para melhor desempenho.

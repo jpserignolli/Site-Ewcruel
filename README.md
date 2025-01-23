@@ -7,7 +7,7 @@
 </p>
 
 ## Descrição do Projeto
-> site e design feito para o site da ewcruel.
+> Site e design feito para o site da ewcruel.
 
 > Status do Projeto: Finalizado :warning:
 - [x]  Interface recriada para melhor desempenho.
